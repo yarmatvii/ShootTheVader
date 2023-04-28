@@ -1,0 +1,10 @@
+C:\Users\Matvey\source\repos\GAME\GAME\bin\Debug\GAME.exe.config
+C:\Users\Matvey\source\repos\GAME\GAME\bin\Debug\GAME.exe
+C:\Users\Matvey\source\repos\GAME\GAME\bin\Debug\GAME.pdb
+C:\Users\Matvey\source\repos\GAME\GAME\obj\Debug\GAME.csprojAssemblyReference.cache
+C:\Users\Matvey\source\repos\GAME\GAME\obj\Debug\GAME.Properties.Resources.resources
+C:\Users\Matvey\source\repos\GAME\GAME\obj\Debug\GAME.csproj.GenerateResource.cache
+C:\Users\Matvey\source\repos\GAME\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\source\repos\GAME\GAME\obj\Debug\GAME.exe
+C:\Users\Matvey\source\repos\GAME\GAME\obj\Debug\GAME.pdb
+C:\Users\Matvey\source\repos\GAME\GAME\obj\Debug\GAME.Form1.resources
